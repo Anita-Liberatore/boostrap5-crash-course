@@ -36,4 +36,4 @@ To use this project, simply open the `index.html` file in your web browser.
 ## Resources
 
 This is part of a YouTube tutorial:
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/watch?v=4sosXZsdy-s)
+(https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/watch?v=4sosXZsdy-s)
